@@ -1,6 +1,6 @@
-# My Financial CRM
+# Finansal Müşteri İlişkileri Yönetimi Uygulaması
 
-My Financial CRM, kişisel veya kurumsal finansal verilerinizi, banka hesaplarınızı, harcamalarınızı ve faturalarınızı yönetebileceğiniz kapsamlı bir masaüstü uygulamasıdır. C# ve Windows Forms kullanılarak geliştirilmiş olup, veritabanı işlemleri için Entity Framework (.NET Framework) tercih edilmiştir.
+Finansal Müşteri İlişkileri Yönetimi Uygulaması, kişisel veya kurumsal finansal verilerinizi, banka hesaplarınızı, harcamalarınızı ve faturalarınızı yönetebileceğiniz kapsamlı bir masaüstü uygulamasıdır. C# ve Windows Forms kullanılarak geliştirilmiş olup, veritabanı işlemleri için Entity Framework (.NET Framework) tercih edilmiştir.
 
 ## 🚀 Özellikler
 
