@@ -46,9 +46,3 @@ Projeyi kendi bilgisayarınızda derleyip çalıştırmak için aşağıdaki ad�
 4. SQL Server Management Studio (SSMS) üzerinde gerekli veritabanını ve tabloları (`Banks`, `Bills`, `BankProcesses`, vb.) oluşturun veya Entity Framework Model'inden veritabanı script'ini üreterek (Generate Database from Model) çalıştırın.
 5. Projedeki `App.config` dosyasını açıp, `<connectionStrings>` etiketi altında yer alan `FinancialCrmDbEntities1` bağlantı dizesini (Connection String) kendi lokal SQL sunucu bilgilerinize göre güncelleyin.
 6. Uygulamayı başlatın (F5 veya Start butonu).
-
-## 📸 Uygulamadan Görüntüler
-*(Uygulamanın Dashboard, Bankalar ve Faturalar ekranlarına ait ekran görüntülerini ilerleyen aşamalarda buraya ekleyebilirsiniz.)*
-
----
-*Bu uygulama, C# Windows Forms ve Entity Framework konularında pratik yapmak, UI ve veritabanı bağlama (Data Binding) operasyonlarını kavramak amacıyla geliştirilmiştir.*
